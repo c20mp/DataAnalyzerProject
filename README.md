@@ -22,7 +22,7 @@ Then use it to answer one of these questions:
 
 2. I want to investigate if drug lobbies effect legislation around health care. Which lobbies are the most likely to effect the law?
 
-3. I have $500 to bet on next year's NCAA basketball tournament. I will more money the lower the winner was ranked coming into the tournament. How should I pick a team?
+3. I have $500 to bet on next year's NCAA basketball tournament. If my team wins, I make more money the lower it was ranked coming into the tournament. How should I pick a team?
 
 4. What's on Trump's mind? (In other words, out of 5 or 6 categories - let's say, Obama, Trump Tower, Trump Golf, Iran, Health care, and Ivanka - what does he tweet about the most?)
 
