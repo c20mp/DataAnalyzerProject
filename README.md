@@ -26,6 +26,8 @@ Then use it to give me advice on one of these questions:
 
 4. I'm rattled about world events and I'd feel better if I knew what's on Trump's mind. Can you give me insights? 
 
+You will have a few weeks to do data analysis, then present it to me in class. At that time, the rest of the class and myself will give you pointers on your code. Then you have until the final class period to show me the improvements.
+
 ## Setup
 1. Clone this project. (In Eclipse, Control-click anywhere in the Package Explorer > Import... > Git > Projects from git > paste this URI https://github.com/daltonschool/DataAnalyzerProject.git > click Next until Finish)
 
