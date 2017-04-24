@@ -30,7 +30,7 @@ Then use it to answer one of these questions:
 1. Clone this project. (In Eclipse, Control-click anywhere in the Package Explorer > Import... > Git > Projects from git > paste this URI https://github.com/daltonschool/DataAnalyzerProject.git > click Next until Finish)
 
 ## Suggested Workflow
-1. Peruse the dataset. Decide on a specific question you want to investigate. (E.g. In order to give me advice on which film to invest in, you could ask, "Which Disney film genre averages the highest earnings?") 
+1. Peruse the dataset. Decide on a specific question. (E.g. In order to give me advice on which Disney film to invest in, you could ask, "Which Disney film genre has averaged the highest earnings?") 
 
 2. On scratch paper, design an object for that one question. What information do you need to store?
   
