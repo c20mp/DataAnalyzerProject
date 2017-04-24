@@ -1,9 +1,13 @@
 ![Banner](https://kjergens.github.io/DataAnalyzerProject/data-analytics.png)
 
 # Data Analyzer Project
+CS-2 Final Project
 
 ## Summary: 
 Tell me something interesting about a large dataset. Share your insights with the class.
+
+## Skills:
+ArrayList, File I/O, Objects
 
 ## Details:
 Pick one of these datasets:
@@ -12,15 +16,15 @@ Pick one of these datasets:
 3. NCAA Men's basketball championship tournament results since 1985
 4. All of Trump's tweets.
 
-Answer an interesting question about it.
-Eg.
-1. I have $50,000 dollars to invest in a Disney film. Which kind of film do I have the best chances of making my money back?
+Then use it to answer one of these questions:
 
-2. I want to investigate if drug lobbies effect legislation around health care. Which lobbies should I target first?
+1. I have $50,000 dollars to invest in a Disney film. Which kind of film gives me best chances of making my money back?
 
-3. I have $500 to bet on next year's NCAA basketball tournament. Which team should I bet on? Does the ranking of the team help predict who will win?
+2. I want to investigate if drug lobbies effect legislation around health care. Which lobbies are the most likely to effect the law?
 
-4. What's on Trump's mind? Of 5 or 6 categories - for example: Obama, Trump Tower, Trump Golf, Iran, Health care, and Ivanka - which does he tweet most about? Or, how often does he tweet a year? A day?
+3. I have $500 to bet on next year's NCAA basketball tournament. I will more money the lower the winner was ranked coming into the tournament. How should I pick a team?
+
+4. What's on Trump's mind? (In other words, out of 5 or 6 categories - let's say, Obama, Trump Tower, Trump Golf, Iran, Health care, and Ivanka - what does he tweet about the most?)
 
 ## Setup
 1. Clone this project. (In Eclipse, Control-click anywhere in the Package Explorer > Import... > Git > Projects from git > paste this URI https://github.com/daltonschool/DataAnalyzerProject.git > click Next until Finish)
