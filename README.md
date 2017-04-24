@@ -1,3 +1,5 @@
+![Banner](https://kjergens.github.io/DataAnalyzerProject/data-analytics.png)
+
 # Data Analyzer Project
 
 ## Summary: 
@@ -42,5 +44,7 @@ Eg.
 6. Display the results or write the results to a file.
   
 7. Decide if you want to answer another question. Design an object for that question and incorporate it into your existing code.
-   
 
+
+   
+![Banner](https://kjergens.github.io/DataAnalyzerProject/data-analytics.png)
