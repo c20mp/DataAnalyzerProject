@@ -11,20 +11,25 @@ ArrayList, File I/O, Objects
 
 ## Details:
 Pick one of these datasets:
-1. Disney movie box office earnings, all-time
-2. Drug lobby spending amounts
-3. NCAA Men's basketball championship tournament results since 1985
-4. All of Trump's tweets.
+
+	1. Disney movie box office earnings, all-time
+	2. Drug lobby spending amounts
+	3. NCAA Men's basketball championship tournament results since 1985
+	4. All of Trump's tweets.
 
 Then use it to give me advice on one of these questions:
 
-1. I have $50,000 dollars I'd like to invest in a Disney film. What kind of film project should I hold out for in order to give me best chances of making my money back?
+	1. I have $50,000 dollars I'd like to invest in a Disney film. What kind of film project 
+	should I hold out for in order to give me best chances of making my money back?
 
-2. I want to challenge drug lobbies that are effecting health care legislation. Which lobbies are the most likely influencing lawmakers?
+	2. I want to challenge drug lobbies that are effecting health care legislation. Which 
+	lobbies are the most likely influencing lawmakers?
 
-3. I have $500 to bet on next year's NCAA basketball tournament. How should I pick a team? 
+	3. I have $500 to bet on next year's NCAA basketball tournament. How should I 
+	pick a team? 
 
-4. I'm rattled about world events and I'd feel better if I knew what's on Trump's mind. Can you give me insights? 
+	4. I'm rattled about world events and I'd feel better if I knew what's 
+	on Trump's mind. Can you give me insights? 
 
 You will have a few weeks to do data analysis, then present it to me in class. At that time, the rest of the class and myself will give you pointers on your code. Then you have until the final class period to show me the improvements.
 
@@ -58,21 +63,31 @@ B/B+ : You design an object and read in data, but don't draw any conclusions.
 
 B+/A- : A specific row of data is given as evidence for your conclusion. Examples:
 
-	1. "You should invest in cat-movies because the top-grossing film was 'Aristocats'."
-	2. "You should target Merck because they spent the highest amount on lobbies this year."
+	1. "You should invest in cat-movies because the top-grossing film was 
+	'Aristocats'."
+	2. "You should target Merck because they spent the highest amount on 
+	lobbies this year."
 	3. "You should bet on Miami State because they have won last time."
 	4. "Trump is thinking about cake because that's what his last tweet was about"
 	
 A-/A : A summary of data is given as evidence for your conclusion. Examples:
-	* "You should invest in Action movies because the top-grossing films was have on average been Action films."
-	* "You should target Merck because on average they've spent the most on lobbies over the past 5 years."
-	* "You should bet on the team ranked 2nd because 2-nd ranked teams win most often."
-	* "Trump is thinking about golf 5 times as much as he's thinking about oil".
+
+	1. "You should invest in Action movies because the top-grossing films was have on 
+	average been Action films."
+	2. "You should target Merck because on average they've spent the most on lobbies 
+	over the past 5 years."
+	3. "You should bet on the team ranked 2nd because 2-nd ranked teams win most often."
+	4. "Trump is thinking about golf 5 times as much as he's thinking about oil".
 	
 A : Multiple ways of looking at the data led to your conclusion. Examples:
-	* "You should invest in R-rated Musicals because in the past 10 years those have been the most successful".
-	* "You should target Merck because they've been increasing their spending every year for the past 5 years."
-	* "You should bet on the team ranked 2nd OR the team that won last time because on average those teams have the best odds."
-	* "Since becoming president, Trump has tweeted about Obama more than from before he was president."
+
+	1. "You should invest in R-rated Musicals because in the past 10 years those have been 
+	the most successful".
+	2. "You should target Merck because they've been increasing their spending every year for 
+	the past 5 years."
+	3. "You should bet on the team ranked 2nd OR the team that won last time because on average 
+	those teams have the best odds."
+	4. "Since becoming president, Trump has tweeted about Obama more than from before he
+	was president."
    
 ![Banner](https://kjergens.github.io/DataAnalyzerProject/data-analytics.png)
