@@ -1,7 +1,13 @@
+![Banner](https://kjergens.github.io/DataAnalyzerProject/data-analytics.png)
+
 # Data Analyzer Project
+CS-2 Final Project
 
 ## Summary: 
 Tell me something interesting about a large dataset. Share your insights with the class.
+
+## Skills:
+ArrayList, File I/O, Objects
 
 ## Details:
 Pick one of these datasets:
@@ -10,21 +16,24 @@ Pick one of these datasets:
 3. NCAA Men's basketball championship tournament results since 1985
 4. All of Trump's tweets.
 
-Answer an interesting question about it.
-Eg.
-1. I have $50,000 dollars to invest in a Disney film. Which kind of film do I have the best chances of making my money back?
+Then use it to give me advice on one of these questions:
 
-2. I want to investigate if drug lobbies effect legislation around health care. Which lobbies should I target first?
+1. I have $50,000 dollars I'd like to invest in a Disney film. What kind of film project should I hold out for in order to give me best chances of making my money back?
 
-3. I have $500 to bet on next year's NCAA basketball tournament. Which team should I bet on? Does the ranking of the team help predict who will win?
+2. I want to challenge drug lobbies that are effecting health care legislation. Which lobbies are the most likely influencing lawmakers?
 
-4. What's on Trump's mind? Of 5 or 6 categories - for example: Obama, Trump Tower, Trump Golf, Iran, Health care, and Ivanka - which does he tweet most about? Or, how often does he tweet a year? A day?
+3. I have $500 to bet on next year's NCAA basketball tournament. How should I pick a team? 
+
+4. I'm rattled about world events and I'd feel better if I knew what's on Trump's mind. Can you give me insights? 
+
+You will have a few weeks to do data analysis, then present it to me in class. At that time, the rest of the class and myself will give you pointers on your code. Then you have until the final class period to show me the improvements.
 
 ## Setup
-1. Clone this project. (In Eclipse, Control-click anywhere in the Package Explorer > Import... > Git > Projects from git > paste this URI https://github.com/daltonschool/DataAnalyzerProject.git > click Next until Finish)
+1. Clone this project. (In Eclipse, Control-click anywhere in the Package Explorer > Import... > Git > Projects from git > paste this URI https://github.com/kjergens/DataAnalyzerProject.git > click Next until Finish)
 
 ## Suggested Workflow
-1. Peruse the dataset. Decide on a specific question you want to investigate. (E.g. In order to give me advice on which film to invest in, you could ask, "Which Disney film genre averages the highest earnings?") 
+1. Peruse the dataset. Ask yourself a specific question that can be answered by analyzing the data. 
+	- E.g. In order to give me advice on which Disney film to invest in, you could ask, "Which Disney film genre has averaged the highest earnings?") 
 
 2. On scratch paper, design an object for that one question. What information do you need to store?
   
@@ -33,14 +42,17 @@ Eg.
 	- HINT: Unlike the Student object from the last project, you probably won't have attributes for every column in the dataset. 
 
 4. In the main program, read the data from the csv file and store it in the ArrayList.
-  - Unlike the StudentReport, you may not want to save every line of data. For example, if you only care about National Championship game winners, don't make objects for rows concerning other games (Semi-Finals, Elite Eight, etc.).
-  - Unlike the StudentReport, you might want to count occurrances of something. For example, if you are counting how often each team won, and if North Carolina already won a Championship, don't create another North Carolina object. Instead, find North Carolina it in your list and increment its count.
+	- HINT: Unlike the StudentReport, you might want to skip certain lines of data. E.g., if you only care about National Championship game winners, skip rows concerning other games (Semi-Finals, Elite Eight, etc.).
+	- HINT: Unlike the StudentReport project, you might want to count occurrances of something. E.g., if you are counting how often each team won and if North Carolina already won a Championship, don't create another North Carolina object. Instead, find North Carolina it in your list and increment its count.
   
 5. If you choose to sort the ArrayList, do it after you've read in all the data from the input file. 
-	- Tips: Create a new ArrayList to hold the sorted objects. Remove the max element from the original ArrayList and add it the sorted ArrayList. Keep doing that until the original ArrayList is empty.
+	- Tips on sorting: Create a new ArrayList to hold the sorted objects. Remove the max element from the original ArrayList and add it the sorted ArrayList. Keep doing that until the original ArrayList is empty.
   
-6. Display the results or write the results to a file.
+6. Display the results or write them to a file.
   
 7. Decide if you want to answer another question. Design an object for that question and incorporate it into your existing code.
-   
 
+## Grading
+
+   
+![Banner](https://kjergens.github.io/DataAnalyzerProject/data-analytics.png)
