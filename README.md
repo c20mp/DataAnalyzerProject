@@ -54,7 +54,7 @@ You will have a few weeks to do data analysis, then present it to me in class. A
 7. Decide if you want to answer another question. Design an object for that question and incorporate it into your existing code.
 
 ## Grading
-The grade will go up depending on how thorough the analysis. Example grades:
+The grade will go up depending on how thorough the analysis. Rubric:
 
 ### B/B+
 You design an object and read in data, but don't draw any conclusions.
@@ -76,11 +76,13 @@ You design an object and read in data and give a count or average of data as evi
 4. "Trump is thinking about golf 5 times as much as he's thinking about oil".
 	
 ### A/A+
-You design an object and read in data and give multiple data points to support your conclusion. Examples:
+You design an object and read in data and give multiple data points to support your conclusion. (Hint: You'd need more than one object). Examples:
 
 1. "You should invest in R-rated Musicals because in the past 10 years those have been the most successful".
 2. "You should target Merck because they've been increasing their spending every year for the past 5 years."
 3. "You should bet on the team ranked 2nd OR the team that won last time because on average those teams have the best odds."
 4. "Since becoming president, Trump has tweeted about Obama more than from before hewas president."
+
+There is some flexiblity in grading for well-written professinally styled code, even if it doesn't work.
    
 ![Banner](https://kjergens.github.io/DataAnalyzerProject/data-analytics.png)
