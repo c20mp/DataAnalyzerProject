@@ -66,28 +66,36 @@ The grade will go up depending on how thorough the analysis and/or how well-code
 You design an object and read in data, but don't draw any conclusions.
 
 ### B+/A- 
-You design an object and read in data and give a specific row of data as evidence for your conclusion. Examples:
+You design an object and read in data and give a specific row of data as evidence for your conclusion. For example you might say to me:
 
 1. "You should invest in cat-movies because the top-grossing film was 'Aristocats'."
 2. "You should target Merck because they spent the highest amount on lobbies this year."
 3. "You should bet on Miami State because they have won last time."
 4. "Trump is thinking about cake because that's what his last tweet was about"
-	
+
+Then you show your data results that support your conclusion. 
+
 ### A-/A 
-You design an object and read in data and give a count or average of data as evidence for your conclusion. Examples:
+You design an object and read in data and give a count or average of data as evidence for your conclusion. For example you might say:
 
 1. "You should invest in Action movies because the top-grossing films was have on average been Action films."
 2. "You should target Merck because on average they've spent the most on lobbies over the past 5 years."
 3. "You should bet on the team ranked 2nd because 2-nd ranked teams win most often."
 4. "Trump is thinking about golf 5 times as much as he's thinking about oil".
+
+Then you show your data results that support your conclusion. 
+
 	
 ### A/A+
-You design an object and read in data and give multiple data points to support your conclusion. Examples:
+You design an object and read in data and give multiple data points to support your conclusion. For example you might say:
 
 1. "You should invest in R-rated Musicals because in the past 10 years those have been the most successful".
 2. "You should target Merck because they've been increasing their spending every year for the past 5 years."
 3. "You should bet on the team ranked 2nd OR the team that won last time because on average those teams have the best odds."
 4. "Since becoming president, Trump has tweeted about Obama more than from before hewas president."
+
+Then you show your data results that support your conclusion. 
+
 
 ### Final notes on grading:
 1. There is flexiblity in grading for well-written, professionally-styled code, even if it doesn't totally work. Show effort, and explain what the plan for analysis was, and those things will earn points.
