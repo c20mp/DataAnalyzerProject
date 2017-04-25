@@ -55,10 +55,11 @@ You will have a few weeks to do data analysis, then present it to me in class. A
 
 ## Grading
 The grade will go up depending on how thorough the analysis. Example grades:
-###B/B+
+
+### B/B+
 You design an object and read in data, but don't draw any conclusions.
 
-###B+/A- 
+### B+/A- 
 A specific row of data is given as evidence for your conclusion. Examples:
 
 1. "You should invest in cat-movies because the top-grossing film was 'Aristocats'."
@@ -66,7 +67,7 @@ A specific row of data is given as evidence for your conclusion. Examples:
 3. "You should bet on Miami State because they have won last time."
 4. "Trump is thinking about cake because that's what his last tweet was about"
 	
-###A-/A 
+### A-/A 
 An aggregation or average of data is given as evidence for your conclusion. Examples:
 
 1. "You should invest in Action movies because the top-grossing films was have on average been Action films."
@@ -74,7 +75,7 @@ An aggregation or average of data is given as evidence for your conclusion. Exam
 3. "You should bet on the team ranked 2nd because 2-nd ranked teams win most often."
 4. "Trump is thinking about golf 5 times as much as he's thinking about oil".
 	
-###A
+### A
 Multiple ways of looking at the data led to your conclusion. Examples:
 
 1. "You should invest in R-rated Musicals because in the past 10 years those have been the most successful".
