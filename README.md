@@ -17,7 +17,7 @@ Pick one of these datasets:
 3. NCAA Men's basketball championship tournament results since 1985
 4. All of Trump's tweets.
 
-Then use it to give me advice on one of these questions:
+Then use it to give me advice on ONE of these questions:
 
 1. I have $50,000 dollars I'd like to invest in a Disney film. What kind of film project should I invest in to give me best chances of making my money back?
 
@@ -30,7 +30,7 @@ Then use it to give me advice on one of these questions:
 You will have a few weeks to do data analysis, then present it to me in class. At that time, the rest of the class and myself will give you pointers on your code. Then you have until the final class period to show me the improvements.
 
 ## Setup
-1. Clone this project. (In Eclipse, Control-click anywhere in the Package Explorer > Import... > Git > Projects from git > paste this URI https://github.com/kjergens/DataAnalyzerProject.git > click Next until Finish)
+1. Clone this project. (In Eclipse, Control-click anywhere in the Package Explorer > Import... > Git > Projects from git > Clone URI > paste this URI https://github.com/kjergens/DataAnalyzerProject.git > click Next until Finish)
 
 ## Suggested Workflow
 1. Peruse the dataset. Ask yourself a specific question that can be answered by analyzing the data. 
@@ -40,9 +40,9 @@ You will have a few weeks to do data analysis, then present it to me in class. A
   
 3. Edit the Data object to be the object you designed. 
 
-	- Tips: Keep it simple. Only include attributes you know you'll need.You can methods later if you need them, but don't write them at the start.
+	- Tips: Keep it simple. Only include attributes you know you'll need. Add methods later if you need them, but don't write them at the start.
 	
-	- HINT: Unlike the Student object from the last project, you probably won't have attributes for every column in the dataset. 
+	- HINT: Unlike the Student object from the last project, you probably won't have attributes for every column in the dataset. You will probably only have 2 or 3 attributes.
 
 4. In the main program, read the data from the csv file and store it in the ArrayList.
 
@@ -59,7 +59,7 @@ You will have a few weeks to do data analysis, then present it to me in class. A
 7. Decide if you want to answer another question. Design an object for that question and incorporate it into your existing code.
 
 ## Grading
-The grade will go up depending on how thorough the analysis. Rubric:
+The grade will go up depending on how thorough the analysis and/or how well-coded it is. Rubric:
 
 ### B/B+
 You design an object and read in data, but don't draw any conclusions.
