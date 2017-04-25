@@ -6,7 +6,7 @@ package app;
  * TODO: This is just to get you started. You should add to it, delete from it, and/or
  * edit it. Rename the object to something more specific.
  * 
- * @author YOUR NAME
+ * @author YOUR NAME HERE
  *
  */
 public class Data {
