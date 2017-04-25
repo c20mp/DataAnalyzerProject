@@ -31,6 +31,7 @@ You will have a few weeks to do data analysis, then present it to me in class. A
 
 ## Setup
 1. Clone this project. (In Eclipse, Control-click anywhere in the Package Explorer > Import... > Git > Projects from git > Clone URI > paste this URI https://github.com/kjergens/DataAnalyzerProject.git > click Next until Finish)
+2. Make sure the csv files open in the Text Editor. Right-click on any of the csv files > Open With.. > Other... > Internal Editors > Text Editor > select both checkboxes to make it stick > OK.
 
 ## Suggested Workflow
 1. Peruse the dataset. Ask yourself a specific question that can be answered by analyzing the data. 
