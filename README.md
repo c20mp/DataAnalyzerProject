@@ -53,6 +53,25 @@ You will have a few weeks to do data analysis, then present it to me in class. A
 7. Decide if you want to answer another question. Design an object for that question and incorporate it into your existing code.
 
 ## Grading
+The grade will go up depending on how thorough the analysis. Example grades:
+B/B+ : You design an object and read in data, but don't draw any conclusions.
 
+B+/A- : A specific row of data is given as evidence for your conclusion. Examples:
+	* "You should invest in cat-movies because the top-grossing film was 'Aristocats'."
+	* "You should target Merck because they spent the highest amount on lobbies this year."
+	* "You should bet on Miami State because they have won last time."
+	* "Trump is thinking about cake because that's what his last tweet was about"
+	
+A-/A : A summary of data is given as evidence for your conclusion. Examples:
+	* "You should invest in Action movies because the top-grossing films was have on average been Action films."
+	* "You should target Merck because on average they've spent the most on lobbies over the past 5 years."
+	* "You should bet on the team ranked 2nd because 2-nd ranked teams win most often."
+	* "Trump is thinking about golf 5 times as much as he's thinking about oil".
+	
+A : Multiple ways of looking at the data led to your conclusion. Examples:
+	* "You should invest in R-rated Musicals because in the past 10 years those have been the most successful".
+	* "You should target Merck because they've been increasing their spending every year for the past 5 years."
+	* "You should bet on the team ranked 2nd OR the team that won last time because on average those teams have the best odds."
+	* "Since becoming president, Trump has tweeted about Obama more than from before he was president."
    
 ![Banner](https://kjergens.github.io/DataAnalyzerProject/data-analytics.png)
