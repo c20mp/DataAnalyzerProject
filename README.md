@@ -56,7 +56,7 @@ You will have a few weeks to do data analysis, then present it to me in class. A
   
 6. Display the results or write them to a file.
   
-7. Decide if you want to answer another question. Design an object for that question and incorporate it into your existing code.
+7. Decide if you want to answer another question from the same dataset. Design an object for that question and incorporate it into your existing code.
 
 ## Grading
 The grade will go up depending on how thorough the analysis and/or how well-coded it is. Rubric:
