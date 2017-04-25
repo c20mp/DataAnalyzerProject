@@ -39,14 +39,19 @@ You will have a few weeks to do data analysis, then present it to me in class. A
 2. On scratch paper, design an object for that one question. What information do you need to store?
   
 3. Edit the Data object to be the object you designed. 
+
 	- Tips: Keep it simple. Only include attributes you know you'll need.You can methods later if you need them, but don't write them at the start.
+	
 	- HINT: Unlike the Student object from the last project, you probably won't have attributes for every column in the dataset. 
 
 4. In the main program, read the data from the csv file and store it in the ArrayList.
+
 	- HINT: Unlike the StudentReport, you might want to skip certain lines of data. E.g., if you only care about National Championship game winners, skip rows concerning other games (Semi-Finals, Elite Eight, etc.).
+	
 	- HINT: Unlike the StudentReport project, you might want to count occurrances of something. E.g., if you are counting how often each team won and if North Carolina already won a Championship, don't create another North Carolina object. Instead, find North Carolina it in your list and increment its count.
   
 5. If you choose to sort the ArrayList, do it after you've read in all the data from the input file. 
+
 	- Tips on sorting: Create a new ArrayList to hold the sorted objects. Remove the max element from the original ArrayList and add it the sorted ArrayList. Keep doing that until the original ArrayList is empty.
   
 6. Display the results or write them to a file.
