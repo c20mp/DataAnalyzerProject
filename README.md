@@ -76,7 +76,7 @@ You design an object and read in data and give a count or average of data as evi
 4. "Trump is thinking about golf 5 times as much as he's thinking about oil".
 	
 ### A/A+
-You design an object and read in data and give multiple data points to support your conclusion. (Hint: You'd need more than one object). Examples:
+You design an object and read in data and give multiple data points to support your conclusion. Examples:
 
 1. "You should invest in R-rated Musicals because in the past 10 years those have been the most successful".
 2. "You should target Merck because they've been increasing their spending every year for the past 5 years."
