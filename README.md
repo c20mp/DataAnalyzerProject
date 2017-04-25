@@ -76,7 +76,7 @@ You design an object and read in data and give a specific row of data as evidenc
 Then you show your data results that support your conclusion. 
 
 ### A-/A 
-You design an object and read in data and give a count or average of data as evidence for your conclusion. For example you might say:
+You design an object and read in data and give a count or average of data as evidence for your conclusion. For example you might say to me:
 
 1. "You should invest in Action movies because the top-grossing films was have on average been Action films."
 2. "You should target Merck because on average they've spent the most on lobbies over the past 5 years."
@@ -87,7 +87,7 @@ Then you show your data results that support your conclusion.
 
 	
 ### A/A+
-You design an object and read in data and give multiple data points to support your conclusion. For example you might say:
+You design an object and read in data and give multiple data points to support your conclusion. For example you might say to me:
 
 1. "You should invest in R-rated Musicals because in the past 10 years those have been the most successful".
 2. "You should target Merck because they've been increasing their spending every year for the past 5 years."
