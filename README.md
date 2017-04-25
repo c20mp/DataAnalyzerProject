@@ -60,7 +60,7 @@ The grade will go up depending on how thorough the analysis. Example grades:
 You design an object and read in data, but don't draw any conclusions.
 
 ### B+/A- 
-A specific row of data is given as evidence for your conclusion. Examples:
+You design an object and read in data and give a specific row of data as evidence for your conclusion. Examples:
 
 1. "You should invest in cat-movies because the top-grossing film was 'Aristocats'."
 2. "You should target Merck because they spent the highest amount on lobbies this year."
@@ -68,15 +68,15 @@ A specific row of data is given as evidence for your conclusion. Examples:
 4. "Trump is thinking about cake because that's what his last tweet was about"
 	
 ### A-/A 
-An aggregation or average of data is given as evidence for your conclusion. Examples:
+You design an object and read in data and give a count or average of data as evidence for your conclusion. Examples:
 
 1. "You should invest in Action movies because the top-grossing films was have on average been Action films."
 2. "You should target Merck because on average they've spent the most on lobbies over the past 5 years."
 3. "You should bet on the team ranked 2nd because 2-nd ranked teams win most often."
 4. "Trump is thinking about golf 5 times as much as he's thinking about oil".
 	
-### A
-Multiple ways of looking at the data led to your conclusion. Examples:
+### A/A+
+You design an object and read in data and give multiple data points to support your conclusion. Examples:
 
 1. "You should invest in R-rated Musicals because in the past 10 years those have been the most successful".
 2. "You should target Merck because they've been increasing their spending every year for the past 5 years."
