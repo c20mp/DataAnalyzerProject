@@ -83,6 +83,7 @@ You design an object and read in data and give multiple data points to support y
 3. "You should bet on the team ranked 2nd OR the team that won last time because on average those teams have the best odds."
 4. "Since becoming president, Trump has tweeted about Obama more than from before hewas president."
 
-There is some flexiblity in grading for well-written professinally styled code, even if it doesn't work.
+### Final note on grading:
+There is flexiblity in grading for well-written, professionally-styled code, even if it doesn't totally work. Show effort, and explain what the plan for analysis was, and those things will earn points.
    
 ![Banner](https://kjergens.github.io/DataAnalyzerProject/data-analytics.png)
