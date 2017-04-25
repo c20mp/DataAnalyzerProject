@@ -7,7 +7,7 @@ CS-2 Final Project
 Tell me something interesting about a large dataset. Share your insights with the class.
 
 ## Skills:
-ArrayList, File I/O, Objects
+ArrayLists, File I/O, Objects
 
 ## Details:
 Pick one of these datasets:
