@@ -57,10 +57,10 @@ The grade will go up depending on how thorough the analysis. Example grades:
 B/B+ : You design an object and read in data, but don't draw any conclusions.
 
 B+/A- : A specific row of data is given as evidence for your conclusion. Examples:
-	* "You should invest in cat-movies because the top-grossing film was 'Aristocats'."
-	* "You should target Merck because they spent the highest amount on lobbies this year."
-	* "You should bet on Miami State because they have won last time."
-	* "Trump is thinking about cake because that's what his last tweet was about"
+		* "You should invest in cat-movies because the top-grossing film was 'Aristocats'."
+		* "You should target Merck because they spent the highest amount on lobbies this year."
+		* "You should bet on Miami State because they have won last time."
+		* "Trump is thinking about cake because that's what his last tweet was about"
 	
 A-/A : A summary of data is given as evidence for your conclusion. Examples:
 	* "You should invest in Action movies because the top-grossing films was have on average been Action films."
