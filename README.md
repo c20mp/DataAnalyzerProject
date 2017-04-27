@@ -44,6 +44,8 @@ You will have a few weeks to do data analysis, then present it to me in class. A
 	- Tips: Keep it simple. Only include attributes you know you'll need. Add methods later if you need them, but don't write them at the start.
 	
 	- HINT: Unlike the Student object from the last project, you probably won't have attributes for every column in the dataset. You will probably only have 2 or 3 attributes.
+	
+	- HINT: For the Disney gross earnings use <b>long</b> not <b>int</b>. They made too much money to hold in an <b>int</b>!
 
 4. In the main program, read the data from the csv file and store it in the ArrayList.
 
