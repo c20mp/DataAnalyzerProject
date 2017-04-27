@@ -54,6 +54,7 @@ You will have a few weeks to do data analysis, then present it to me in class. A
 	- HINT: Unlike the StudentReport project, you might want to count occurrances of something. E.g., if you are counting how often each team won and if North Carolina already won a Championship, don't create another North Carolina object. Instead, find North Carolina it in your list and increment its count.
   
 5. If you choose to sort the ArrayList, do it after you've read in all the data from the input file. 
+	- Remember to skip the the first row of the csv which is the header columns.
 
 	- Tips on sorting: Create a new ArrayList to hold the sorted objects. Remove the max element from the original ArrayList and add it the sorted ArrayList. Keep doing that until the original ArrayList is empty.
   
