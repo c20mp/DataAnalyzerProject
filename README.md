@@ -48,13 +48,13 @@ You will have a few weeks to do data analysis, then present it to me in class. A
 	- HINT: For the Disney gross earnings use <b>long</b> not <b>int</b>. They made too much money to hold in an <b>int</b>!
 
 4. In the main program, read the data from the csv file and store it in the ArrayList.
+	- HINT: You need to skip the the first row of the csv which is the header columns.
 
-	- HINT: Unlike the StudentReport, you might want to skip certain lines of data. E.g., if you only care about National Championship game winners, skip rows concerning other games (Semi-Finals, Elite Eight, etc.).
+	- HINT: You might want to skip certain lines of the file. E.g., if you only care about National Championship game winners, skip rows concerning other games (Semi-Finals, Elite Eight, etc.).
 	
-	- HINT: Unlike the StudentReport project, you might want to count occurrances of something. E.g., if you are counting how often each team won and if North Carolina already won a Championship, don't create another North Carolina object. Instead, find North Carolina it in your list and increment its count.
+	- HINT: You might want to count occurrances of something. E.g., if you are counting how often each team won and if North Carolina already won a Championship, don't create another North Carolina object. Instead, find North Carolina it in your list and increment its count.
   
 5. If you choose to sort the ArrayList, do it after you've read in all the data from the input file. 
-	- Remember to skip the the first row of the csv which is the header columns.
 
 	- Tips on sorting: Create a new ArrayList to hold the sorted objects. Remove the max element from the original ArrayList and add it the sorted ArrayList. Keep doing that until the original ArrayList is empty.
   
