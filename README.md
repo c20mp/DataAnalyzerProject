@@ -52,7 +52,7 @@ You will have a few weeks to do data analysis, then present it to me in class. A
 
 	- HINT: You might want to skip certain lines of the file. E.g., if you only care about National Championship game winners skip rows concerning other games (Semi-Finals, Elite Eight, etc.).
 	
-	- HINT: You might want to count occurrances of something. E.g., if you are counting how often each team won and if North Carolina already won, don't create another North Carolina object. Instead, find North Carolina it in your list and increment its win count.
+	- HINT: You might want to count occurrances of something. E.g., if you are counting how often each team won and if North Carolina already won, don't create another North Carolina object. Instead, find it in your list and increment its win count.
   
 5. If you choose to sort the ArrayList, do it after you've read in all the data from the input file. 
 
