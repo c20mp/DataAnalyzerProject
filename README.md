@@ -56,7 +56,10 @@ You will have a few weeks to do data analysis, then present it to me in class. A
   
 5. If you choose to sort the ArrayList, do it after you've read in all the data from the input file. 
 
-	- Tips on sorting: (Plan A) Create a new ArrayList to hold the sorted objects. Remove the max element from the original ArrayList and add it the sorted ArrayList. Keep doing that until the original ArrayList is empty. OR (Plan B) Research Comparators.
+	- Tips on sorting: 
+		- (Plan A) Create a new ArrayList to hold the sorted objects. Remove the max element from the original ArrayList and add it the sorted ArrayList. Keep doing that until the original ArrayList is empty. 
+		- OR (Plan B) Research implementing Comparable and the compareTo() function 
+		- OR (Plan C) Research Comparators with Array.sort().
   
 6. Display the results or write them to a file.
   
