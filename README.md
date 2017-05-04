@@ -19,9 +19,9 @@ Pick one of these datasets:
 
 Then use it to give me advice on ONE of these questions:
 
-1. I have $50,000 dollars I'd like to invest in a Disney film. What kind of film project should I invest in to give me best chances of making my money back?
+1. I have $50,000 dollars I'd like to invest in a Disney film. What kind of film project gives me best chances of making my money back?
 
-2. I want to challenge drug lobbies that are effecting health care legislation. Who should I target first?
+2. I want to challenge drug lobbies that are effecting health care legislation. Who should I target?
 
 3. I have $500 to bet on next year's NCAA basketball tournament. How should I pick a team? 
 
@@ -48,15 +48,15 @@ You will have a few weeks to do data analysis, then present it to me in class. A
 	- HINT: For the Disney gross earnings use <b>long</b> not <b>int</b>. They made too much money to hold in an <b>int</b>!
 
 4. In the main program, read the data from the csv file and store it in the ArrayList.
-	- HINT: You need to skip the the first row of the csv which is the header columns.
+	- HINT: Skip the the first row of the csv which is the header columns.
 
-	- HINT: You might want to skip certain lines of the file. E.g., if you only care about National Championship game winners, skip rows concerning other games (Semi-Finals, Elite Eight, etc.).
+	- HINT: You might want to skip certain lines of the file. E.g., if you only care about National Championship game winners skip rows concerning other games (Semi-Finals, Elite Eight, etc.).
 	
 	- HINT: You might want to count occurrances of something. E.g., if you are counting how often each team won and if North Carolina already won a Championship, don't create another North Carolina object. Instead, find North Carolina it in your list and increment its count.
   
 5. If you choose to sort the ArrayList, do it after you've read in all the data from the input file. 
 
-	- Tips on sorting: Create a new ArrayList to hold the sorted objects. Remove the max element from the original ArrayList and add it the sorted ArrayList. Keep doing that until the original ArrayList is empty.
+	- Tips on sorting: (Plan A) Create a new ArrayList to hold the sorted objects. Remove the max element from the original ArrayList and add it the sorted ArrayList. Keep doing that until the original ArrayList is empty. OR (Plan B) Research Comparators.
   
 6. Display the results or write them to a file.
   
