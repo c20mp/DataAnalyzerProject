@@ -21,7 +21,7 @@ Then use it to give me advice on ONE of these questions:
 
 1. I have $50,000 dollars I'd like to invest in a Disney film. What kind of film project has the best chances of making my money back?
 
-2. I want to challenge drug lobbies that are effecting health care legislation. Who should I target?
+2. I want to challenge drug lobbies who are affecting health care legislation. Who should I target?
 
 3. I have $500 to bet on next year's NCAA basketball tournament. How should I pick a team? 
 
